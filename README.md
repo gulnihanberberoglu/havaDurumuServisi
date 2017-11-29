@@ -1,5 +1,8 @@
 # havaDurumuServisi
 
+[![Build Status](https://travis-ci.org/gulnihanberberoglu/havaDurumuServisi.svg?branch=master)](https://travis-ci.org/gulnihanberberoglu/havaDurumuServisi)
+[![Coverage Status](https://coveralls.io/repos/github/gulnihanberberoglu/havaDurumuServisi/badge.svg?branch=master)](https://coveralls.io/github/gulnihanberberoglu/havaDurumuServisi?branch=master)
+
 <br />
 git clone https://github.com/gulnihanberberoglu/havaDurumuServisi.git komutu çalıştırılarak proje indirilir.
 <br />
